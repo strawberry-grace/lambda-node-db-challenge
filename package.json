@@ -3,7 +3,7 @@
     "server": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.20.0",
     "knex": "^0.19.1",
     "nodemon": "^1.19.1",
